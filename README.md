@@ -1,5 +1,3 @@
-# githubKereser-ensolvers-challenge
-
 ## Application
 The application is manage by docker-compose, creating both, front and backend images from its respectives Dockerfiles on folders.
 
